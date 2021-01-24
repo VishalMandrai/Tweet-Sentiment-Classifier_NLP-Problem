@@ -19,7 +19,6 @@
 <h3> Tools used in Python Code: </h3>
 <ul>
 <li><p><b>Python ( 3.7 version)</b></p></li>
-<li><p><b>Flask</b></p></li>
 <li><p><b>Pandas</b></p></li>
 <li><p><b>Numpy</b></p></li>
 <li><p><b>Natural Language Tool Kit</b></p></li>
